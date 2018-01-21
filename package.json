@@ -1,0 +1,26 @@
+{
+  "name": "sulv",
+  "version": "1.0.0",
+  "description": "this is a graphql demo",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.12.3",
+    "heapdump": "^0.3.9",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.31.2",
+    "ws": "^3.3.2",
+    "zhike-chaos": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "du",
+  "license": "ISC"
+}
