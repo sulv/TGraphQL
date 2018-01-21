@@ -1,12 +1,10 @@
-import { GraphQLInputObjectType } from '../../Library/Caches/typescript/2.6/node_modules/@types/graphql';
-
 const {graphql, GraphQLSchema, GraphQLObjectType, GraphQLString, GraphQLNonNull, GraphQLInt} = require('graphql');
 
 // const Sequelize = require('sequelize');
 
 // global.db = new Sequelize('athene', 'athene', 'athene', {
 //   dialect: 'mysql',
-//   host: 'dev.smartstudy.com',
+//   host: '127.0.0.1',
 //   port: '3306',
 //   timezone: '+08:00',
 //   logging: undefined,
